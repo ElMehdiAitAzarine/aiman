@@ -1,0 +1,140 @@
+*{color: white;
+  box-sizing: border-box;
+}	
+
+body{background-image: url(walp.JPG);
+	  background-attachment: fixed;
+}
+#tout {
+padding: 10px;	
+background: #273746;
+margin: 30px;
+box-shadow: 2px 5px 9px 10px #273746 ;
+border-radius: 74px;
+background: linear-gradient(145deg, #273746, #ca8e8e);
+}
+h1 { color: white;
+     margin-top: auto;
+     margin-bottom: auto;
+     text-shadow: 2px 2px 2px white;
+}
+.ite{	
+ 	display: flex;
+	justify-content: center;
+}
+
+img{width: 250px;
+	clip-path: circle();
+}
+
+h2{text-align: center;
+}
+
+ul{display: flex;
+   justify-content: center;
+   overflow: hidden;
+}
+li {
+   margin: auto;
+   width: 80px ;
+	float: left;
+	margin: 30px;
+
+}
+div {
+	width: 85%;
+	border: black solid;
+   margin-right: auto ;
+   margin-left: auto;
+   margin-top: 15px;
+   text-align: center;
+   padding-bottom: 20px;
+}
+td {
+	border: black solid;
+	min-width:25px;
+
+}
+.cir{
+	clip-path: circle();
+	background:black ;
+}
+.emty{
+	border-radius: 50px;
+    background: #80676e;
+    box-shadow:  4px 4px 7px #6d585e,
+             -4px -4px 7px #93767f;
+}
+.emt{
+	border-radius: 50px;
+background: #b08083;
+box-shadow:  3px 3px 6px #966d6f,
+             -3px -3px 6px #ca9397;
+}
+#nom{
+	text-align: center;
+}
+#haut{
+	width:25px;
+	border: none;
+}
+#toop{margin-top: auto;
+	   margin-bottom: auto;
+	   float: left;
+
+}
+#tooop{
+	border: none;
+	width: 150px;
+   display: flex;
+   justify-content: flex-end;
+
+}
+
+#linkedin{
+	width: 35px;
+}
+#git{
+	width: 62px;
+}
+#kaggle{
+	width: 35px;
+	margin-left: 15px;
+}
+#icons{
+	border: none;
+}
+#follow{
+	font-style: oblique;
+	color: #815a5f;
+}
+#asc {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+}
+#tete{
+	width: 90%;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+#enq{
+  display: flex;
+  justify-content: flex-start;
+}
+#ident{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 260px;
+	margin-left: 25px;
+	padding-left: 30px;
+	border-radius: 50px;
+   background: #3c424f;
+   color: #c1b9ba;
+}
+
+#for {text-decoration: none;}
+        
+
